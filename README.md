@@ -6,7 +6,7 @@
         こんにちは!! 👋<br> Josephです。
     </h1>
     <h3>
-        I'm a Student of Computer Engieneer and Japanese language
+        I'm a Student of Computer Engineer and Japanese language
     </h3>
 </div>
 
